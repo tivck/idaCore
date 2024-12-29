@@ -1,0 +1,7 @@
+name: Idalya-Bungee
+version: 1.0
+main: net.idalya.bungee.Bungee
+author: tick
+commands:
+  hub:
+    aliases: [lobby]

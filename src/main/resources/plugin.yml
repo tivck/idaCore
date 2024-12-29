@@ -1,0 +1,7 @@
+main: net.idalya.core.Core
+name: Idalya-API
+author: tick
+version: 1.0
+commands:
+  rank:
+  pool:

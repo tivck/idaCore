@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="uhcore-1.0_3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Dev/Dév/uhcore-1.0_3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Dev/Dév/uhcore-1.0_3.jar!/" />
+    </SOURCES>
+  </library>
+</component>

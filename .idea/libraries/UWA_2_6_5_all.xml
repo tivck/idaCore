@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UWA-2.6.5-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../UWA-2.6.5-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
